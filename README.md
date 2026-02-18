@@ -1,5 +1,6 @@
 # 🛍 Vrinda Store Sales Data Analysis
 
+![Dashboard](Overview.png)
 ## 📊 Project Overview
 This project analyzes Vrinda Store’s sales dataset to understand customer behavior, product performance, and revenue trends.
 
@@ -33,7 +34,7 @@ The dataset contains:
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](VindiirStore.png)
 
 ---
 
